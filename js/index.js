@@ -7,7 +7,7 @@ var scrollBtnRight = document.getElementById("scrollBtnRight");
 var SETTINGS = {
     navBarTravelling: false,
     navBarDirection: "",
-    navBarTravelDistance: 100
+    navBarTravelDistance: 150
 }
 
 function determineOverflow(content, container) {

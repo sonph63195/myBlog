@@ -1,0 +1,81 @@
+{
+    "articles": [
+        {
+            "title": "Inside the World of Birth Tourism",
+            "description": "Superior healthcare and future educational opportunities have women traveling from abroad to give birth in the U.S.",
+            "author": "Yuming Fang",
+            "author_url" : "author.html",
+            "category": "",
+            "category_url": "category.html",
+            "url": "post.html",
+            "date": "Jan 28",
+            "thumbnail": "https://cdn-images-1.medium.com/focal/152/156/48/45/1*qEN3LCG-CfxClSCvxFntlg.png"
+        },
+        {
+            "title": "The importance of the Creative Process",
+            "description": "Boost your design creativity and get your thoughts out of the box",
+            "author": "Emanuele Milella",
+            "author_url" : "author.html",
+            "category": "",
+            "category_url": "category.html",
+            "url": "post.html",
+            "date": "Dec 25 in 2018",
+            "thumbnail": "https://cdn-images-1.medium.com/fit/c/152/156/1*Fyj-mRbQ-2RzC06Uw-lMbQ.jpeg"
+        },
+        {
+            "title": "If You Only Read a Few Books in 2019, Read These",
+            "description": "A reading list for becoming a better citizen and person",
+            "author": "Ryan Holiday",
+            "author_url" : "author.html",
+            "category": "Books",
+            "category_url": "category.html",
+            "url": "post.html",
+            "date": "Jan 25",
+            "thumbnail": "https://cdn-images-1.medium.com/fit/c/152/156/1*1SUFTk2FSSBhwtDI0XmZ7g.jpeg"
+        },
+        {
+            "title": "Screenlife App — a UI/UX case study",
+            "description": "A showcase of the iterative design process",
+            "author": "Elvis Obanya",
+            "author_url" : "author.html",
+            "category": "UX Collective",
+            "category_url": "category.html",
+            "url": "post.html",
+            "date": "Aug 13, 2018",
+            "thumbnail": "https://cdn-images-1.medium.com/fit/c/152/156/1*gVR8mYrElbFb4BTHhp6AwQ.jpeg"
+        },
+        {
+            "title": "UI Design Case Study— Godkhali Flower Market",
+            "description": "Visual Identity & Website Design",
+            "author": "Shristee Rahman",
+            "author_url" : "author.html",
+            "category": "Visual Design",
+            "category_url": "category.html",
+            "url": "post.html",
+            "date": "Sep 27, 2018",
+            "thumbnail": "https://cdn-images-1.medium.com/fit/c/152/156/1*XnpoNFREi3dLQMLklCHIEw.png"
+        },
+        {
+            "title": "Build a Multiplayer Browser-based VR Game with A-Frame, PubNub, and WebVR",
+            "description": "",
+            "author": "Namratha Subramanya",
+            "author_url" : "author.html",
+            "category": "LEARN TO CODE FOR FREE",
+            "category_url": "category.html",
+            "url": "post.html",
+            "date": "Aug 27, 2018",
+            "thumbnail": "https://cdn-images-1.medium.com/fit/c/152/156/1*Iu7_DRv1Pr_9dHfkr22ZVw.png"
+        },
+        {
+            "title": "Build a Multiplayer Browser-based VR Game with A-Frame, PubNub, and WebVR",
+            "description": "",
+            "author": "Namratha Subramanya",
+            "author_url" : "author.html",
+            "category": "LEARN TO CODE FOR FREE",
+            "category_url": "category.html",
+            "url": "post.html",
+            "date": "Aug 27, 2018",
+            "thumbnail": "https://cdn-images-1.medium.com/fit/c/152/156/1*Iu7_DRv1Pr_9dHfkr22ZVw.png"
+        }
+    ]
+}
